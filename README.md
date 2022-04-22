@@ -1,6 +1,6 @@
 # Reverse Sentence
 
-#### This javascript function reverses the sentence you typed. The order of letters in words doesn't change.
+### This javascript function reverses the sentence you typed. The order of letters in words doesn't change.
 
 For example:
 
