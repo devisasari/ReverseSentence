@@ -7,8 +7,8 @@ For example:
 Input: "I love coding" <br>
 Output: "coding love I"
 
-Input: "Coding is good"
+Input: "Coding is good" <br>
 Output: "good is Coding"
 
-Input: "Reverse this sentence, but keep the order of the letters in the words"
+Input: "Reverse this sentence, but keep the order of the letters in the words" <br>
 Output: "words the in letters the of order the keep but sentence, this Reverse"
