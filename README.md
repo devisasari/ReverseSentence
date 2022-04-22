@@ -4,7 +4,7 @@
 
 For example:
 
-Input: "I love coding"
+Input: "I love coding" <br>
 Output: "coding love I"
 
 Input: "Coding is good"
